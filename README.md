@@ -1,13 +1,13 @@
 <body>
   <center>
-<h1 align="center">~ 💖 Welcome I'M Putra💖 ~</h1>
+<h1 align="center">~ 💖 Welcome I'M FannDev💖 ~</h1>
 <br>
 <div align="center">
   </a>
     <br>
-  <p>PUTRAMODZ</p>
-  <p>hidup itu sementara kawan</p>
-  <p>Apa Yang Perlu Kamu sombongkan?</p>
+  <p>FANNDEVZ</p>
+  <p>Jika Kamu Tidak Ingin Direndahkan</p>
+  <p>Maka Jangan Merendahkan Orang Lain</p>
 <p>Alwys Bersyukur yaa ><</p>
 <p><a href="https://youtube.com/@Putra_Modz_">- subscribe ya</a><p>
   
